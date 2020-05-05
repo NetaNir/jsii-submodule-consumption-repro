@@ -1,0 +1,28 @@
+{
+  "name": "jsii-submodule-consumption-repro",
+  "version": "0.1.0",
+  "author": "benisrae@amazon.com",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eladb/jsii-submodule-consumption-repro"
+  },
+  "jsii": {
+    "outdir": "dist"
+  },
+  "license": "Apache-2.0",
+  "scripts": {
+    "build": "jsii"
+  },
+  "devDependencies": {
+    "monocdk-experiment": "^1.36.1",
+    "constructs": "^3.0.3",
+    "@types/node": "10.17.5",
+    "jsii": "^1.4.1"
+  },
+  "peerDependencies": {
+    "monocdk-experiment": "^1.36.1",
+    "constructs": "^3.0.3"
+  }
+}
