@@ -16,13 +16,13 @@
     "build": "jsii"
   },
   "devDependencies": {
-    "monocdk-experiment": "^1.36.1",
+    "monocdk-experiment": "^1.38.0",
     "constructs": "^3.0.3",
     "@types/node": "10.17.5",
-    "jsii": "^1.4.1"
+    "jsii": "^1.5.0"
   },
   "peerDependencies": {
-    "monocdk-experiment": "^1.36.1",
+    "monocdk-experiment": "^1.38.0",
     "constructs": "^3.0.3"
   }
 }
